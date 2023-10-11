@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>F587878D444AA14A80A788AF4AB7A4BF</ExecutionGuid>
+		<CrashGUID>UE4CC-Windows-F44566DC4B1D946575611BA3D9CB77F1_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Crash</CrashType>
+		<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000000</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>25364</ProcessId>
+		<SecondsSinceStart>20</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE4-TS2Prototype</GameName>
+		<ExecutableName>TS2Prototype-Win64-Shipping</ExecutableName>
+		<BuildConfiguration>Shipping</BuildConfiguration>
+		<GameSessionID>TSW-58</GameSessionID>
+		<Symbols>**UE4*Release-4.26-CL-0-Win64-Shipping</Symbols>
+		<PlatformName>WindowsNoEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.26.1-0+++UE4+Release-4.26</EngineVersion>
+		<CommandLine>TS2Prototype -epiclocale=zh</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>en-AU</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.26-CL-0</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>D:/Games/Train.Sim.World.3/TrainSimWorld3/TS2Prototype/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Games/Train.Sim.World.3/TrainSimWorld3/</RootDir>
+		<MachineId>6964C88A40FE5143582F799E236CC017</MachineId>
+		<LoginId>6964c88a40fe5143582f799e236cc017</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName>TS2FrontEndGameState_BP_C</GameStateName>
+		<Misc.NumberOfCores>10</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>20</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1060 3GB</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>34276048896</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack>TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+TS2Prototype_Win64_Shipping
+kernel32
+ntdll</CallStack>
+		<PCallStack>TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 110f565 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1135133 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1000788 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 3003c73 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1a4dddd TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 18fc404 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 192cc2a TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 19248c0 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1849188 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1843282 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7b8761 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7bee3c TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7beeaa TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7c8c4f TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 3ab131e KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</PCallStack>
+		<PCallStackHash>12D1D3CC4BDB207969590C86308D17EAAEAE0C7D</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16025d0 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 3ab9abe VCRUNTIME140 0x00007ffb627a0000 + f0e0 ntdll 0x00007ffb74b90000 + a221f ntdll 0x00007ffb74b90000 + 514b4 ntdll 0x00007ffb74b90000 + a0d2e TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 110f565 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1135133 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1000788 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 3003c73 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1a4dddd TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 18fc404 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 192cc2a TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 19248c0 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1849188 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1843282 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7b8761 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7bee3c TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7beeaa TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 7c8c4f TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 3ab131e KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>21768</ThreadID>
+				<ThreadName>GameThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25568</ThreadID>
+				<ThreadName>TaskGraphThreadNP 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25572</ThreadID>
+				<ThreadName>TaskGraphThreadNP 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25576</ThreadID>
+				<ThreadName>TaskGraphThreadNP 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25580</ThreadID>
+				<ThreadName>TaskGraphThreadNP 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25584</ThreadID>
+				<ThreadName>TaskGraphThreadNP 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25588</ThreadID>
+				<ThreadName>TaskGraphThreadNP 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25592</ThreadID>
+				<ThreadName>TaskGraphThreadNP 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25596</ThreadID>
+				<ThreadName>TaskGraphThreadNP 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24852</ThreadID>
+				<ThreadName>TaskGraphThreadNP 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13492</ThreadID>
+				<ThreadName>TaskGraphThreadNP 9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12228</ThreadID>
+				<ThreadName>TaskGraphThreadNP 10</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>9240</ThreadID>
+				<ThreadName>TaskGraphThreadNP 11</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24868</ThreadID>
+				<ThreadName>TaskGraphThreadNP 12</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25468</ThreadID>
+				<ThreadName>TaskGraphThreadNP 13</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>320</ThreadID>
+				<ThreadName>TaskGraphThreadNP 14</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25280</ThreadID>
+				<ThreadName>TaskGraphThreadNP 15</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25448</ThreadID>
+				<ThreadName>TaskGraphThreadNP 16</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24284</ThreadID>
+				<ThreadName>TaskGraphThreadNP 17</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25440</ThreadID>
+				<ThreadName>TaskGraphThreadHP 18</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25480</ThreadID>
+				<ThreadName>TaskGraphThreadHP 19</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25532</ThreadID>
+				<ThreadName>TaskGraphThreadHP 20</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25492</ThreadID>
+				<ThreadName>TaskGraphThreadHP 21</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25536</ThreadID>
+				<ThreadName>TaskGraphThreadHP 22</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25540</ThreadID>
+				<ThreadName>TaskGraphThreadHP 23</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25484</ThreadID>
+				<ThreadName>TaskGraphThreadHP 24</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25476</ThreadID>
+				<ThreadName>TaskGraphThreadHP 25</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25716</ThreadID>
+				<ThreadName>TaskGraphThreadHP 26</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25668</ThreadID>
+				<ThreadName>TaskGraphThreadHP 27</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25528</ThreadID>
+				<ThreadName>TaskGraphThreadHP 28</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25720</ThreadID>
+				<ThreadName>TaskGraphThreadHP 29</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25728</ThreadID>
+				<ThreadName>TaskGraphThreadHP 30</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25724</ThreadID>
+				<ThreadName>TaskGraphThreadHP 31</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25732</ThreadID>
+				<ThreadName>TaskGraphThreadHP 32</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>12348</ThreadID>
+				<ThreadName>TaskGraphThreadHP 33</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25672</ThreadID>
+				<ThreadName>TaskGraphThreadHP 34</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25496</ThreadID>
+				<ThreadName>TaskGraphThreadHP 35</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23996</ThreadID>
+				<ThreadName>TaskGraphThreadBP 36</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25680</ThreadID>
+				<ThreadName>TaskGraphThreadBP 37</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25676</ThreadID>
+				<ThreadName>TaskGraphThreadBP 38</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23720</ThreadID>
+				<ThreadName>TaskGraphThreadBP 39</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8640</ThreadID>
+				<ThreadName>TaskGraphThreadBP 40</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23992</ThreadID>
+				<ThreadName>TaskGraphThreadBP 41</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>2352</ThreadID>
+				<ThreadName>TaskGraphThreadBP 42</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17660</ThreadID>
+				<ThreadName>TaskGraphThreadBP 43</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>4128</ThreadID>
+				<ThreadName>TaskGraphThreadBP 44</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24912</ThreadID>
+				<ThreadName>TaskGraphThreadBP 45</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25684</ThreadID>
+				<ThreadName>TaskGraphThreadBP 46</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25692</ThreadID>
+				<ThreadName>TaskGraphThreadBP 47</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25688</ThreadID>
+				<ThreadName>TaskGraphThreadBP 48</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25452</ThreadID>
+				<ThreadName>TaskGraphThreadBP 49</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>13120</ThreadID>
+				<ThreadName>TaskGraphThreadBP 50</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25508</ThreadID>
+				<ThreadName>TaskGraphThreadBP 51</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25444</ThreadID>
+				<ThreadName>TaskGraphThreadBP 52</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5ed1 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c82ac TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25268</ThreadID>
+				<ThreadName>TaskGraphThreadBP 53</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25272</ThreadID>
+				<ThreadName>PoolThread 0</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25456</ThreadID>
+				<ThreadName>PoolThread 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24880</ThreadID>
+				<ThreadName>PoolThread 2</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24884</ThreadID>
+				<ThreadName>PoolThread 3</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>15672</ThreadID>
+				<ThreadName>PoolThread 4</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>3920</ThreadID>
+				<ThreadName>PoolThread 5</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8264</ThreadID>
+				<ThreadName>PoolThread 6</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24888</ThreadID>
+				<ThreadName>PoolThread 7</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26132</ThreadID>
+				<ThreadName>PoolThread 8</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26136</ThreadID>
+				<ThreadName>PoolThread 9</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25652</ThreadID>
+				<ThreadName>PoolThread 10</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25544</ThreadID>
+				<ThreadName>PoolThread 11</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25656</ThreadID>
+				<ThreadName>PoolThread 12</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25660</ThreadID>
+				<ThreadName>PoolThread 13</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25664</ThreadID>
+				<ThreadName>PoolThread 14</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25708</ThreadID>
+				<ThreadName>PoolThread 15</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25712</ThreadID>
+				<ThreadName>PoolThread 16</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25736</ThreadID>
+				<ThreadName>PoolThread 17</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25740</ThreadID>
+				<ThreadName>PoolThread 18</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25744</ThreadID>
+				<ThreadName>PoolThread 19</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16134da TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 299a474 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25760</ThreadID>
+				<ThreadName>FMediaTicker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 23a1ab6 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25768</ThreadID>
+				<ThreadName>HttpManagerThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 9946c6 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25772</ThreadID>
+				<ThreadName>OnlineAsyncTaskThread DefaultInstance</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25824</ThreadID>
+				<ThreadName>PoolThread 20</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25828</ThreadID>
+				<ThreadName>PoolThread 21</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25832</ThreadID>
+				<ThreadName>PoolThread 22</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25836</ThreadID>
+				<ThreadName>PoolThread 23</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5d8b TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 2555c90 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25040</ThreadID>
+				<ThreadName>RHIThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5d8b TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 2555152 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 2555cd3 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23744</ThreadID>
+				<ThreadName>RenderThread 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16134da TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 2555df7 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>25264</ThreadID>
+				<ThreadName>RTHeartBeat 1</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + ac74a2 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26304</ThreadID>
+				<ThreadName>SkyTextureWorker</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>17452</ThreadID>
+				<ThreadName>PoolThread 24</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24412</ThreadID>
+				<ThreadName>PoolThread 25</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24400</ThreadID>
+				<ThreadName>PoolThread 26</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26184</ThreadID>
+				<ThreadName>PoolThread 27</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23780</ThreadID>
+				<ThreadName>PoolThread 28</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>8016</ThreadID>
+				<ThreadName>PoolThread 29</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26436</ThreadID>
+				<ThreadName>PoolThread 30</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24740</ThreadID>
+				<ThreadName>PoolThread 31</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>23772</ThreadID>
+				<ThreadName>PoolThread 32</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 15160cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>14244</ThreadID>
+				<ThreadName>PoolThread 33</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16134da TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 30ab371 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>10668</ThreadID>
+				<ThreadName>ScreenSaverInhibitor</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 28a5695 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>964</ThreadID>
+				<ThreadName>AudioMixerRenderThread(1)</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5d8b TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 2b05480 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>26528</ThreadID>
+				<ThreadName>AudioThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16134da TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 34d42cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>19940</ThreadID>
+				<ThreadName>DTGCommWorkerRailDriver</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9d4d4 KERNELBASE 0x00007ffb72560000 + 4b4ee TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16134da TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 34d42cf TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24032</ThreadID>
+				<ThreadName>DTGCommWorkerTrackIR</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1785b82 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>22792</ThreadID>
+				<ThreadName>FAsyncPurge</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 14c5d8b TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 10f88fc TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>21556</ThreadID>
+				<ThreadName>SimPhysicsThread</ThreadName>
+			</Thread>
+			<Thread>
+				<CallStack>ntdll 0x00007ffb74b90000 + 9ced4 KERNELBASE 0x00007ffb72560000 + 230ce TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 16142be TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 34bf8b3 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 1612c67 TS2Prototype-Win64-Shipping 0x00007ff74c7d0000 + 160e171 KERNEL32 0x00007ffb73ed0000 + 17344 ntdll 0x00007ffb74b90000 + 526b1</CallStack>
+				<IsCrashed>false</IsCrashed>
+				<Registers />
+				<ThreadID>24612</ThreadID>
+				<ThreadName>DTGStatsWorker</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>638326224004150000</TimeOfCrash>
+		<bAllowToBeContacted>0</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 (Release 2009)  64b]</PlatformFullName>
+		<CrashReportClientVersion>0.1</CrashReportClientVersion>
+		<Modules>D:\Games\Train.Sim.World.3\TrainSimWorld3\TS2Prototype\Binaries\Win64\TS2Prototype-Win64-Shipping.exe
+D:\Games\Train.Sim.World.3\TrainSimWorld3\TS2Prototype\Binaries\Win64\EOSSDK-Win64-Shipping.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEXFramework_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\Steamworks\Steamv147\Win64\steam_api64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\TS2Prototype\Binaries\ThirdParty\PieHid\Binaries\PieHid64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll
+D:\Games\Train.Sim.World.3\TrainSimWorld3\Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll</Modules>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+	<EngineData>
+		<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+		<RHI.RHIName>D3D11</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce GTX 1060 3GB</RHI.AdapterName>
+		<RHI.UserDriverVersion>536.99</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>31.0.15.3699</RHI.InternalDriverVersion>
+		<RHI.DriverDate>8-4-2023</RHI.DriverDate>
+		<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+		<Platform.AppHasFocus>true</Platform.AppHasFocus>
+	</EngineData>
+	<GameData />
+</FGenericCrashContext>
